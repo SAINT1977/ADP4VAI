@@ -1,0 +1,43 @@
+Dynamic Visual Prompt Template for Generative AI:
+
+Introduction of Character/Subject:
+
+Describe the character or subject's physical attributes (age, hair, eyes, etc.).
+Mention any distinctive features (birthmarks, makeup, clothing, etc.).
+Animation Focus:
+
+Specify the type of animation (e.g., talking, running, gestures).
+Detail the part of the character to be animated (e.g., face, hands).
+Intensity Level:
+
+Define the intensity or emotion of the animation (e.g., casual conversation, intense debate).
+Describe the range of motion expected (e.g., slight mouth movements, wide mouth openings).
+Facial Expressions and Details:
+
+Instruct on the subtleties of facial expressions (e.g., blinking, eyebrow movement).
+Provide guidance on mouth and lip movement specific to speech or emotion.
+Consistency Factors:
+
+Indicate lighting and shadowing preferences.
+Mention if the sequence should be loopable or if it's a one-time animation.
+Final Output Description:
+
+Describe the desired outcome of the animation sequence (e.g., smooth talking motion, realistic running cycle).
+Additional Notes:
+
+Include any specific details or constraints (e.g., background, camera angle, props).
+Example Dynamic Visual Prompt for Talking Animation:
+
+Character Introduction: "Animate [Character Name], a [Character Age] with [Character Hair Color] hair and [Character Eye Color] eyes. They have a [Distinctive Feature] and are wearing [Character Clothing]."
+
+Animation Focus: "The animation should simulate [Character Name] engaging in [Type of Speech/Conversation]. Focus on the [Specific Body Part]."
+
+Intensity Level: "The conversation's intensity is [Intensity Level], with mouth movements ranging from [Minimal] to [Maximum Opening]."
+
+Facial Expressions and Details: "Include nuances such as [Specific Facial Movements] and articulate speech with visible [Teeth/Tongue Movements]."
+
+Consistency Factors: "Maintain consistent [Lighting/Shadowing] throughout the animation. The sequence should be [Loopable/Non-loopable]."
+
+Final Output Description: "The sequence will be used to [Final Usage], so it should convey [Desired Emotional Impact]."
+
+Additional Notes: "Keep the background [Background Description] and use [Any Additional Props or Effects]."
